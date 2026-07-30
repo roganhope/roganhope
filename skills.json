@@ -2,116 +2,614 @@
   {
     "label": "Languages",
     "skills": [
-      { "name": "Python", "icon": "python.svg" },
-      { "name": "Java", "icon": "java.svg" },
-      { "name": "TypeScript", "icon": "typescript.svg" },
-      { "name": "JavaScript", "icon": "javascript.svg" },
-      { "name": "SQL", "icon": null },
-      { "name": "HTML/CSS", "icon": "html5.svg" },
-      { "name": "jQuery", "icon": "jquery.svg" },
-      { "name": "PHP", "icon": "php.svg" },
-      { "name": "LaTeX", "icon": "latex.svg" }
+      {
+        "name": "Python",
+        "icon": "python.svg",
+        "logo": "python",
+        "color": "3776AB",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Java",
+        "icon": "java.svg",
+        "logo": "java",
+        "color": "ED8B00",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript.svg",
+        "logo": "typescript",
+        "color": "3178C6",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "JavaScript",
+        "icon": "javascript.svg",
+        "logo": "javascript",
+        "color": "F7DF1E",
+        "logoColor": "black",
+        "include": true
+      },
+      {
+        "name": "SQL",
+        "icon": null,
+        "logo": null,
+        "color": "4479A1",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "HTML5",
+        "icon": "html5.svg",
+        "logo": "html5",
+        "color": "E34F26",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "CSS3",
+        "icon": "css3.svg",
+        "logo": "css3",
+        "color": "1572B6",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "jQuery",
+        "icon": "jquery.svg",
+        "logo": "jquery",
+        "color": "0769AD",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "PHP",
+        "icon": "php.svg",
+        "logo": "php",
+        "color": "777BB4",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "LaTeX",
+        "icon": "latex.svg",
+        "logo": "latex",
+        "color": "008080",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Frameworks",
     "skills": [
-      { "name": "Next.js", "icon": "nextjs.svg" },
-      { "name": "Spring Boot", "icon": "springboot.svg" },
-      { "name": "React", "icon": "react.svg" },
-      { "name": "Node.js", "icon": "nodejs.svg" },
-      { "name": "FastAPI", "icon": "fastapi.svg" },
-      { "name": "Flask", "icon": "flask.svg" },
-      { "name": "Django", "icon": "django.svg" },
-      { "name": "Tornado", "icon": null }
+      {
+        "name": "Next.js",
+        "icon": "nextjs.svg",
+        "logo": "nextdotjs",
+        "color": "000000",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "springboot.svg",
+        "logo": "springboot",
+        "color": "6DB33F",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "React",
+        "icon": "react.svg",
+        "logo": "react",
+        "color": "61DAFB",
+        "logoColor": "black",
+        "include": true
+      },
+      {
+        "name": "Node.js",
+        "icon": "nodejs.svg",
+        "logo": "nodedotjs",
+        "color": "339933",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "FastAPI",
+        "icon": "fastapi.svg",
+        "logo": "fastapi",
+        "color": "009688",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Flask",
+        "icon": "flask.svg",
+        "logo": "flask",
+        "color": "000000",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Django",
+        "icon": "django.svg",
+        "logo": "django",
+        "color": "092E20",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Tornado",
+        "icon": null,
+        "logo": null,
+        "color": "2F4F4F",
+        "logoColor": null,
+        "include": true
+      }
     ]
   },
   {
     "label": "UI Libraries",
     "skills": [
-      { "name": "Bootstrap", "icon": "bootstrap.svg" },
-      { "name": "MagicUI", "icon": null },
-      { "name": "Tailwind", "icon": "tailwindcss.svg" }
+      {
+        "name": "Bootstrap",
+        "icon": "bootstrap.svg",
+        "logo": "bootstrap",
+        "color": "7952B3",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "MagicUI",
+        "icon": null,
+        "logo": null,
+        "color": "121212",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "Tailwind",
+        "icon": "tailwindcss.svg",
+        "logo": "tailwindcss",
+        "color": "06B6D4",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Tools",
     "skills": [
-      { "name": "Git", "icon": "git.svg" },
-      { "name": "Visual Studio", "icon": "visualstudio.svg" },
-      { "name": "Slack", "icon": "slack.svg" },
-      { "name": "Discord", "icon": "discord.svg" },
-      { "name": "Teams", "icon": null },
-      { "name": "G Suite", "icon": null },
-      { "name": "Miro", "icon": "miro.svg" },
-      { "name": "LucidChart", "icon": null },
-      { "name": "Photoshop", "icon": "photoshop.svg" },
-      { "name": "Jira", "icon": "jira.svg" },
-      { "name": "Postman", "icon": null }
+      {
+        "name": "Git",
+        "icon": "git.svg",
+        "logo": "git",
+        "color": "F05032",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Visual Studio",
+        "icon": "visualstudio.svg",
+        "logo": "visualstudio",
+        "color": "5C2D91",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Slack",
+        "icon": "slack.svg",
+        "logo": "slack",
+        "color": "4A154B",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Discord",
+        "icon": "discord.svg",
+        "logo": "discord",
+        "color": "5865F2",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Teams",
+        "icon": "microsoftteams.svg",
+        "logo": "microsoftteams",
+        "color": "6264A7",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "G Suite",
+        "icon": "google.svg",
+        "logo": "google",
+        "color": "4285F4",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Miro",
+        "icon": "miro.svg",
+        "logo": "miro",
+        "color": "050038",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "LucidChart",
+        "icon": "lucid.svg",
+        "logo": "lucid",
+        "color": "FF5C35",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Photoshop",
+        "icon": "photoshop.svg",
+        "logo": "adobephotoshop",
+        "color": "31A8FF",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Jira",
+        "icon": "jira.svg",
+        "logo": "jira",
+        "color": "0052CC",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Postman",
+        "icon": "postman.svg",
+        "logo": "postman",
+        "color": "FF6C37",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Platform",
     "skills": [
-      { "name": "Node.js", "icon": "nodejs.svg" },
-      { "name": "Supabase", "icon": "supabase.svg" },
-      { "name": "Vercel", "icon": "vercel.svg" }
+      {
+        "name": "Node.js",
+        "icon": "nodejs.svg",
+        "logo": "nodedotjs",
+        "color": "339933",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Supabase",
+        "icon": "supabase.svg",
+        "logo": "supabase",
+        "color": "3ECF8E",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Vercel",
+        "icon": "vercel.svg",
+        "logo": "vercel",
+        "color": "000000",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Cloud & DevOps",
     "skills": [
-      { "name": "AWS", "icon": "amazonwebservices.svg" },
-      { "name": "Bedrock", "icon": null },
-      { "name": "EC2", "icon": null },
-      { "name": "IAM", "icon": null },
-      { "name": "OIDC", "icon": null },
-      { "name": "AWS Secrets", "icon": null },
-      { "name": "Lambda", "icon": null },
-      { "name": "DynamoDB", "icon": "dynamodb.svg" },
-      { "name": "S3", "icon": null },
-      { "name": "Docker", "icon": "docker.svg" },
-      { "name": "GitHub Actions", "icon": "githubactions.svg" },
-      { "name": "GCP", "icon": "googlecloud.svg" },
-      { "name": "Heroku", "icon": "heroku.svg" }
+      {
+        "name": "AWS",
+        "icon": "amazonwebservices.svg",
+        "logo": "amazonaws",
+        "color": "232F3E",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Bedrock",
+        "icon": null,
+        "logo": null,
+        "color": "FF9900",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "EC2",
+        "icon": "amazonec2.svg",
+        "logo": "amazonec2",
+        "color": "FF9900",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "IAM",
+        "icon": "amazoniam.svg",
+        "logo": "amazoniam",
+        "color": "FF9900",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "OIDC",
+        "icon": "openid.svg",
+        "logo": "openid",
+        "color": "F78C40",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "AWS Secrets",
+        "icon": "awssecretsmanager.svg",
+        "logo": "awssecretsmanager",
+        "color": "FF9900",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Lambda",
+        "icon": "awslambda.svg",
+        "logo": "awslambda",
+        "color": "FF9900",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "DynamoDB",
+        "icon": "dynamodb.svg",
+        "logo": "amazondynamodb",
+        "color": "4053D6",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "S3",
+        "icon": "amazons3.svg",
+        "logo": "amazons3",
+        "color": "569A31",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Docker",
+        "icon": "docker.svg",
+        "logo": "docker",
+        "color": "2496ED",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "GitHub Actions",
+        "icon": "githubactions.svg",
+        "logo": "githubactions",
+        "color": "2088FF",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "GCP",
+        "icon": "googlecloud.svg",
+        "logo": "googlecloud",
+        "color": "4285F4",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Heroku",
+        "icon": "heroku.svg",
+        "logo": "heroku",
+        "color": "430098",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Databases",
     "skills": [
-      { "name": "MySQL", "icon": "mysql.svg" },
-      { "name": "MongoDB", "icon": "mongodb.svg" },
-      { "name": "Postgres", "icon": "postgresql.svg" },
-      { "name": "Redis", "icon": "redis.svg" },
-      { "name": "DynamoDB", "icon": "dynamodb.svg" }
+      {
+        "name": "MySQL",
+        "icon": "mysql.svg",
+        "logo": "mysql",
+        "color": "4479A1",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "MongoDB",
+        "icon": "mongodb.svg",
+        "logo": "mongodb",
+        "color": "47A248",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Postgres",
+        "icon": "postgresql.svg",
+        "logo": "postgresql",
+        "color": "4169E1",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Redis",
+        "icon": "redis.svg",
+        "logo": "redis",
+        "color": "DC382D",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "DynamoDB",
+        "icon": "dynamodb.svg",
+        "logo": "amazondynamodb",
+        "color": "4053D6",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "AI & Agentic",
     "skills": [
-      { "name": "Claude Code", "icon": "claude.svg" },
-      { "name": "Cursor", "icon": "cursor.svg" },
-      { "name": "Codex", "icon": null },
-      { "name": "ChatGPT", "icon": null },
-      { "name": "Google AI SDK", "icon": "googlegemini.svg" },
-      { "name": "MCP", "icon": null },
-      { "name": "AI Plugins", "icon": null },
-      { "name": "AG-UI", "icon": null },
-      { "name": "Anthropic API", "icon": "anthropic.svg" },
-      { "name": "Spring AI", "icon": "spring.svg" },
-      { "name": "TensorFlow", "icon": "tensorflow.svg" },
-      { "name": "Keras", "icon": "keras.svg" }
+      {
+        "name": "Claude Code",
+        "icon": "claude.svg",
+        "logo": "claude",
+        "color": "D97757",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Cursor",
+        "icon": "cursor.svg",
+        "logo": "cursor",
+        "color": "000000",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Codex",
+        "icon": "openai.svg",
+        "logo": "openai",
+        "color": "412991",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "ChatGPT",
+        "icon": "openai.svg",
+        "logo": "openai",
+        "color": "74AA9C",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Google AI SDK",
+        "icon": "googlegemini.svg",
+        "logo": "google",
+        "color": "4285F4",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "MCP",
+        "icon": null,
+        "logo": null,
+        "color": "6E7681",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "AI Plugins",
+        "icon": null,
+        "logo": null,
+        "color": "6E7681",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "AG-UI",
+        "icon": null,
+        "logo": null,
+        "color": "6E7681",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "Anthropic API",
+        "icon": "anthropic.svg",
+        "logo": "anthropic",
+        "color": "191919",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Spring AI",
+        "icon": "spring.svg",
+        "logo": "spring",
+        "color": "6DB33F",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "TensorFlow",
+        "icon": "tensorflow.svg",
+        "logo": "tensorflow",
+        "color": "FF6F00",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Keras",
+        "icon": "keras.svg",
+        "logo": "keras",
+        "color": "D00000",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   },
   {
     "label": "Libraries & Data",
     "skills": [
-      { "name": "pandas", "icon": "pandas.svg" },
-      { "name": "PostHog", "icon": "posthog.svg" },
-      { "name": "NumPy", "icon": "numpy.svg" },
-      { "name": "Matplotlib", "icon": "matplotlib.svg" },
-      { "name": "Seaborn", "icon": null },
-      { "name": "Pytest", "icon": "pytest.svg" }
+      {
+        "name": "pandas",
+        "icon": "pandas.svg",
+        "logo": "pandas",
+        "color": "150458",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "PostHog",
+        "icon": "posthog.svg",
+        "logo": "posthog",
+        "color": "000000",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "NumPy",
+        "icon": "numpy.svg",
+        "logo": "numpy",
+        "color": "013243",
+        "logoColor": "white",
+        "include": true
+      },
+      {
+        "name": "Matplotlib",
+        "icon": "matplotlib.svg",
+        "logo": null,
+        "color": "11557C",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "Seaborn",
+        "icon": null,
+        "logo": null,
+        "color": "4C72B0",
+        "logoColor": null,
+        "include": true
+      },
+      {
+        "name": "Pytest",
+        "icon": "pytest.svg",
+        "logo": "pytest",
+        "color": "0A9EDC",
+        "logoColor": "white",
+        "include": true
+      }
     ]
   }
 ]
