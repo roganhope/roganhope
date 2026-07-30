@@ -1,3 +1,5 @@
+![Hi, I'm Hope](assets/hero-hi-im-hope.gif)
+
 ### Hi there 👋
 
 👋 I'm an aspiring full-stack developer with a Master's degree, passionate about building compact, scalable solutions.
