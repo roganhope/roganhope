@@ -1,0 +1,117 @@
+[
+  {
+    "label": "Languages",
+    "skills": [
+      { "name": "Python", "icon": "python.svg" },
+      { "name": "Java", "icon": "java.svg" },
+      { "name": "TypeScript", "icon": "typescript.svg" },
+      { "name": "JavaScript", "icon": "javascript.svg" },
+      { "name": "SQL", "icon": null },
+      { "name": "HTML/CSS", "icon": "html5.svg" },
+      { "name": "jQuery", "icon": "jquery.svg" },
+      { "name": "PHP", "icon": "php.svg" },
+      { "name": "LaTeX", "icon": "latex.svg" }
+    ]
+  },
+  {
+    "label": "Frameworks",
+    "skills": [
+      { "name": "Next.js", "icon": "nextjs.svg" },
+      { "name": "Spring Boot", "icon": "springboot.svg" },
+      { "name": "React", "icon": "react.svg" },
+      { "name": "Node.js", "icon": "nodejs.svg" },
+      { "name": "FastAPI", "icon": "fastapi.svg" },
+      { "name": "Flask", "icon": "flask.svg" },
+      { "name": "Django", "icon": "django.svg" },
+      { "name": "Tornado", "icon": null }
+    ]
+  },
+  {
+    "label": "UI Libraries",
+    "skills": [
+      { "name": "Bootstrap", "icon": "bootstrap.svg" },
+      { "name": "MagicUI", "icon": null },
+      { "name": "Tailwind", "icon": "tailwindcss.svg" }
+    ]
+  },
+  {
+    "label": "Tools",
+    "skills": [
+      { "name": "Git", "icon": "git.svg" },
+      { "name": "Visual Studio", "icon": "visualstudio.svg" },
+      { "name": "Slack", "icon": "slack.svg" },
+      { "name": "Discord", "icon": "discord.svg" },
+      { "name": "Teams", "icon": null },
+      { "name": "G Suite", "icon": null },
+      { "name": "Miro", "icon": "miro.svg" },
+      { "name": "LucidChart", "icon": null },
+      { "name": "Photoshop", "icon": "photoshop.svg" },
+      { "name": "Jira", "icon": "jira.svg" },
+      { "name": "Postman", "icon": null }
+    ]
+  },
+  {
+    "label": "Platform",
+    "skills": [
+      { "name": "Node.js", "icon": "nodejs.svg" },
+      { "name": "Supabase", "icon": "supabase.svg" },
+      { "name": "Vercel", "icon": "vercel.svg" }
+    ]
+  },
+  {
+    "label": "Cloud & DevOps",
+    "skills": [
+      { "name": "AWS", "icon": "amazonwebservices.svg" },
+      { "name": "Bedrock", "icon": null },
+      { "name": "EC2", "icon": null },
+      { "name": "IAM", "icon": null },
+      { "name": "OIDC", "icon": null },
+      { "name": "AWS Secrets", "icon": null },
+      { "name": "Lambda", "icon": null },
+      { "name": "DynamoDB", "icon": "dynamodb.svg" },
+      { "name": "S3", "icon": null },
+      { "name": "Docker", "icon": "docker.svg" },
+      { "name": "GitHub Actions", "icon": "githubactions.svg" },
+      { "name": "GCP", "icon": "googlecloud.svg" },
+      { "name": "Heroku", "icon": "heroku.svg" }
+    ]
+  },
+  {
+    "label": "Databases",
+    "skills": [
+      { "name": "MySQL", "icon": "mysql.svg" },
+      { "name": "MongoDB", "icon": "mongodb.svg" },
+      { "name": "Postgres", "icon": "postgresql.svg" },
+      { "name": "Redis", "icon": "redis.svg" },
+      { "name": "DynamoDB", "icon": "dynamodb.svg" }
+    ]
+  },
+  {
+    "label": "AI & Agentic",
+    "skills": [
+      { "name": "Claude Code", "icon": "claude.svg" },
+      { "name": "Cursor", "icon": "cursor.svg" },
+      { "name": "Codex", "icon": null },
+      { "name": "ChatGPT", "icon": null },
+      { "name": "Google AI SDK", "icon": "googlegemini.svg" },
+      { "name": "MCP", "icon": null },
+      { "name": "AI Plugins", "icon": null },
+      { "name": "AG-UI", "icon": null },
+      { "name": "Anthropic API", "icon": "anthropic.svg" },
+      { "name": "Spring AI", "icon": "spring.svg" },
+      { "name": "TensorFlow", "icon": "tensorflow.svg" },
+      { "name": "Keras", "icon": "keras.svg" }
+    ]
+  },
+  {
+    "label": "Libraries & Data",
+    "skills": [
+      { "name": "pandas", "icon": "pandas.svg" },
+      { "name": "PostHog", "icon": "posthog.svg" },
+      { "name": "NumPy", "icon": "numpy.svg" },
+      { "name": "Matplotlib", "icon": "matplotlib.svg" },
+      { "name": "Seaborn", "icon": null },
+      { "name": "Pytest", "icon": "pytest.svg" }
+    ]
+  }
+]
