@@ -179,6 +179,14 @@
         "color": "06B6D4",
         "logoColor": "white",
         "include": true
+      },
+      {
+        "name": "React",
+        "icon": "react.svg",
+        "logo": "react",
+        "color": "61DAFB",
+        "logoColor": "black",
+        "include": true
       }
     ]
   },
