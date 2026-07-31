@@ -27,16 +27,24 @@ def badge_url(skill):
     return url
 
 
+def render_group(group, lines, depth):
+    skills = [s for s in group.get("skills", []) if s.get("include", True)]
+    subgroups = group.get("groups", [])
+    if not skills and not subgroups:
+        return
+    lines.append(f"{'#' * depth} {group['label']}")
+    for skill in skills:
+        lines.append(f"![{skill['name']}]({badge_url(skill)})")
+    if skills:
+        lines.append("")
+    for subgroup in subgroups:
+        render_group(subgroup, lines, depth + 1)
+
+
 def render(groups):
     lines = [START_MARKER]
     for group in groups:
-        skills = [s for s in group["skills"] if s.get("include", True)]
-        if not skills:
-            continue
-        lines.append(f"### {group['label']}")
-        for skill in skills:
-            lines.append(f"![{skill['name']}]({badge_url(skill)})")
-        lines.append("")
+        render_group(group, lines, 3)
     lines.append(END_MARKER)
     return "\n".join(lines).rstrip("\n")
 

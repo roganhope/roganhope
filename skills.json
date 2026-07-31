@@ -316,78 +316,6 @@
     "label": "Cloud & DevOps",
     "skills": [
       {
-        "name": "AWS",
-        "icon": "amazonwebservices.svg",
-        "logo": "amazonaws",
-        "color": "232F3E",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "Bedrock",
-        "icon": null,
-        "logo": null,
-        "color": "FF9900",
-        "logoColor": null,
-        "include": true
-      },
-      {
-        "name": "EC2",
-        "icon": "amazonec2.svg",
-        "logo": "amazonec2",
-        "color": "FF9900",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "IAM",
-        "icon": "amazoniam.svg",
-        "logo": "amazoniam",
-        "color": "FF9900",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "OIDC",
-        "icon": "openid.svg",
-        "logo": "openid",
-        "color": "F78C40",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "AWS Secrets",
-        "icon": "awssecretsmanager.svg",
-        "logo": "awssecretsmanager",
-        "color": "FF9900",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "Lambda",
-        "icon": "awslambda.svg",
-        "logo": "awslambda",
-        "color": "FF9900",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "DynamoDB",
-        "icon": "dynamodb.svg",
-        "logo": "amazondynamodb",
-        "color": "4053D6",
-        "logoColor": "white",
-        "include": true
-      },
-      {
-        "name": "S3",
-        "icon": "amazons3.svg",
-        "logo": "amazons3",
-        "color": "569A31",
-        "logoColor": "white",
-        "include": true
-      },
-      {
         "name": "Docker",
         "icon": "docker.svg",
         "logo": "docker",
@@ -418,6 +346,85 @@
         "color": "430098",
         "logoColor": "white",
         "include": true
+      }
+    ],
+    "groups": [
+      {
+        "label": "AWS",
+        "skills": [
+          {
+            "name": "AWS",
+            "icon": "amazonwebservices.svg",
+            "logo": "amazonaws",
+            "color": "232F3E",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "Bedrock",
+            "icon": null,
+            "logo": null,
+            "color": "FF9900",
+            "logoColor": null,
+            "include": true
+          },
+          {
+            "name": "EC2",
+            "icon": "amazonec2.svg",
+            "logo": "amazonec2",
+            "color": "FF9900",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "IAM",
+            "icon": "amazoniam.svg",
+            "logo": "amazoniam",
+            "color": "FF9900",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "OIDC",
+            "icon": "openid.svg",
+            "logo": "openid",
+            "color": "F78C40",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "AWS Secrets",
+            "icon": "awssecretsmanager.svg",
+            "logo": "awssecretsmanager",
+            "color": "FF9900",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "Lambda",
+            "icon": "awslambda.svg",
+            "logo": "awslambda",
+            "color": "FF9900",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "DynamoDB",
+            "icon": "dynamodb.svg",
+            "logo": "amazondynamodb",
+            "color": "4053D6",
+            "logoColor": "white",
+            "include": true
+          },
+          {
+            "name": "S3",
+            "icon": "amazons3.svg",
+            "logo": "amazons3",
+            "color": "569A31",
+            "logoColor": "white",
+            "include": true
+          }
+        ]
       }
     ]
   },
