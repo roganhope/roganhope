@@ -1,12 +1,10 @@
 ![Hi, I'm Hope](assets/hero-hi-im-hope.gif)
 
-I'm a product manager and software engineer.
-Building is a passion of mine.
+<a href="https://www.hoperogan.com/"><img src="https://img.shields.io/badge/Portfolio%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="50"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoperogan/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prK7bXqrWQ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hope.e.rogan@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hoperogan.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roganhope)
 
 ---
@@ -107,4 +105,49 @@ Building is a passion of mine.
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 <!-- SKILLS:END -->
+
+## Projects
+
+<!-- PROJECTS:START -->
+<table width="100%">
+<tr><td align="center" bgcolor="#f6f8fa">
+<a href="https://github.com/roganhope/maiscribe"><img src="assets/project-images/maiscribe.png" width="480" height="300" alt="Maiscribe"></a>
+<br><br>
+<b><a href="https://github.com/roganhope/maiscribe">Maiscribe</a></b>
+<br>
+Meaning "My AI Scribe", an early stage open source project for free and accessible use for audio file transcription, speaker diarization and AI summarization.
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td align="center" bgcolor="#f6f8fa">
+<a href="https://thejadeplatform.com/"><img src="assets/project-images/jade-platform.png" width="480" height="300" alt="The Jade Platform"></a>
+<br><br>
+<b><a href="https://thejadeplatform.com/">The Jade Platform</a></b>
+<br>
+Served as lead engineer at Jade to engineer an options strategy management application for wealth management firms.
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td align="center" bgcolor="#f6f8fa">
+<a href="https://sehreats.com"><img src="assets/project-images/sehr-eats.png" width="480" height="300" alt="Sehr Eats"></a>
+<br><br>
+<b><a href="https://sehreats.com">Sehr Eats</a></b>
+<br>
+My personal food blog for Armenian and Middle Eastern recipes, preserving culture & family recipes.
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td align="center" bgcolor="#f6f8fa">
+<a href="https://bikersoutfiter.com"><img src="assets/project-images/bikers-outfitter.png" width="480" height="300" alt="Biker's Outfitters Website"></a>
+<br><br>
+<b><a href="https://bikersoutfiter.com">Biker's Outfitters Website</a></b>
+<br>
+An e-commerce platform I was contracted to build for Biker's Outfitters, a family-owned motorcycle dealership.
+</td></tr>
+</table>
+
+<!-- PROJECTS:END -->
 

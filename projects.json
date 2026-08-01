@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Maiscribe",
+    "description": "Meaning \"My AI Scribe\", an early stage open source project for free and accessible use for audio file transcription, speaker diarization and AI summarization.",
+    "url": "https://github.com/roganhope/maiscribe",
+    "image": "maiscribe.png",
+    "include": true
+  },
+  {
+    "name": "The Jade Platform",
+    "description": "Served as lead engineer at Jade to engineer an options strategy management application for wealth management firms.",
+    "url": "https://thejadeplatform.com/",
+    "image": "jade-platform.png",
+    "include": true
+  },
+  {
+    "name": "Sehr Eats",
+    "description": "My personal food blog for Armenian and Middle Eastern recipes, preserving culture & family recipes.",
+    "url": "https://sehreats.com",
+    "image": "sehr-eats.png",
+    "include": true
+  },
+  {
+    "name": "Biker's Outfitters Website",
+    "description": "An e-commerce platform I was contracted to build for Biker's Outfitters, a family-owned motorcycle dealership.",
+    "url": "https://bikersoutfiter.com",
+    "image": "bikers-outfitter.png",
+    "include": true
+  }
+]
