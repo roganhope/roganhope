@@ -1,11 +1,10 @@
 ![Hi, I'm Hope](assets/hero-hi-im-hope.gif)
 
-<a href="https://www.hoperogan.com/"><img src="https://img.shields.io/badge/Portfolio%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="50"></a>
+<a href="https://hoperogan.com/?utm_source=github"><img src="https://img.shields.io/badge/Portfolio%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="50"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoperogan/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prK7bXqrWQ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hope.e.rogan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roganhope)
 
 ---
 
