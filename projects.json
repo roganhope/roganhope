@@ -1,5 +1,12 @@
 [
   {
+    "name": "Find a Time",
+    "description": "A free group scheduling app that replaces the endless \"when are you free?\" thread. Guests answer one link without making an account, and a live heat map colors in the date that works for everyone. Built with Next.js, TypeScript, Supabase and Tailwind.",
+    "url": "https://findatime.tech",
+    "image": "findatime.png",
+    "include": true
+  },
+  {
     "name": "Maiscribe",
     "description": "Meaning \"My AI Scribe\", an early stage open source project for free and accessible use for audio file transcription, speaker diarization and AI summarization.",
     "url": "https://github.com/roganhope/maiscribe",
