@@ -110,6 +110,16 @@
 <!-- PROJECTS:START -->
 <table width="100%">
 <tr><td align="center" bgcolor="#f6f8fa">
+<a href="https://findatime.tech"><img src="assets/project-images/findatime.png" width="480" height="300" alt="Find a Time"></a>
+<br><br>
+<b><a href="https://findatime.tech">Find a Time</a></b>
+<br>
+A free group scheduling app that replaces the endless "when are you free?" thread. Guests answer one link without making an account, and a live heat map colors in the date that works for everyone. Built with Next.js, TypeScript, Supabase and Tailwind.
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td align="center" bgcolor="#f6f8fa">
 <a href="https://github.com/roganhope/maiscribe"><img src="assets/project-images/maiscribe.png" width="480" height="300" alt="Maiscribe"></a>
 <br><br>
 <b><a href="https://github.com/roganhope/maiscribe">Maiscribe</a></b>
